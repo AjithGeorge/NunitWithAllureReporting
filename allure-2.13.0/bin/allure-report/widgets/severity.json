@@ -1,0 +1,31 @@
+[ {
+  "uid" : "81104b8bf92dd21c",
+  "name" : "TestWithSteps",
+  "time" : {
+    "start" : 1568352091448,
+    "stop" : 1568352093257,
+    "duration" : 1809
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "129099140221d9f2",
+  "name" : "SimpleTestFailed",
+  "time" : {
+    "start" : 1568352091321,
+    "stop" : 1568352091399,
+    "duration" : 78
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6b3b16ff9581d46",
+  "name" : "SimpleTestPassed",
+  "time" : {
+    "start" : 1568352091442,
+    "stop" : 1568352091445,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

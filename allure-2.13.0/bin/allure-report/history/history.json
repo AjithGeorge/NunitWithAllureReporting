@@ -1,0 +1,60 @@
+{
+  "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.TestWithSteps" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81104b8bf92dd21c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568352091448,
+        "stop" : 1568352093257,
+        "duration" : 1809
+      }
+    } ]
+  },
+  "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.SimpleTestFailed" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "129099140221d9f2",
+      "status" : "failed",
+      "statusDetails" : "  Expected: No Exception to be thrown\r\n  But was:  <System.Exception: I'm an exception\r\n   at WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestClass.<>c.<SimpleTestFailed>b__3_0() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureReporting_Version1\\NunitWithAllureReporting_Version1\\Sample_AllureReportTypes.cs:line 54\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.VoidInvocationDescriptor.Invoke()\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.ExceptionInterceptor.Intercept(Object invocation)>\r\n",
+      "time" : {
+        "start" : 1568352091321,
+        "stop" : 1568352091399,
+        "duration" : 78
+      }
+    } ]
+  },
+  "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.SimpleTestPassed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6b3b16ff9581d46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568352091442,
+        "stop" : 1568352091445,
+        "duration" : 3
+      }
+    } ]
+  }
+}

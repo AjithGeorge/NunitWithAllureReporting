@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1.csproj",
+        "projectName": "NunitWithAllureRepoting_Version1",
+        "projectPath": "C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1.csproj",
+        "packagesPath": "C:\\Users\\Ajith.George\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ajith.George\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Allure.Commons": {
+              "target": "Package",
+              "version": "[2.4.2.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit.Allure": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

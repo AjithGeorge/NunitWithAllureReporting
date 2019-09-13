@@ -1,0 +1,196 @@
+{
+  "uid" : "81104b8bf92dd21c",
+  "name" : "TestWithSteps",
+  "fullName" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.TestWithSteps",
+  "historyId" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.TestWithSteps",
+  "time" : {
+    "start" : 1568352091448,
+    "stop" : 1568352093257,
+    "duration" : 1809
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "SetUp",
+    "time" : {
+      "start" : 1568352093254,
+      "stop" : 1568352093254,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "TestWithSteps",
+      "time" : {
+        "start" : 1568352091448,
+        "stop" : 1568352093256,
+        "duration" : 1808
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Hello, it's me",
+        "time" : {
+          "start" : 1568352091449,
+          "stop" : 1568352091850,
+          "duration" : 401
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "I was wondering if after all these years you'd like to meet",
+        "time" : {
+          "start" : 1568352091850,
+          "stop" : 1568352092351,
+          "duration" : 501
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "To go over everything",
+        "time" : {
+          "start" : 1568352092351,
+          "stop" : 1568352092452,
+          "duration" : 101
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "They say that time's supposed to heal ya",
+        "time" : {
+          "start" : 1568352092452,
+          "stop" : 1568352092853,
+          "duration" : 401
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0
+      }, {
+        "name" : "But I ain't done much healing",
+        "time" : {
+          "start" : 1568352092853,
+          "stop" : 1568352093254,
+          "duration" : 401
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "b5b1ce923881d9fb",
+        "name" : "Console Output",
+        "source" : "b5b1ce923881d9fb.txt",
+        "type" : "text/plain",
+        "size" : 216
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 5
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "AGEORGE01"
+  }, {
+    "name" : "testClass",
+    "value" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestWithSteps"
+  }, {
+    "name" : "package",
+    "value" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass"
+  }, {
+    "name" : "epic",
+    "value" : "Song"
+  }, {
+    "name" : "suite",
+    "value" : "Adele"
+  }, {
+    "name" : "subSuite",
+    "value" : "Hello"
+  }, {
+    "name" : "subSuite",
+    "value" : "AllureReportTypeSamples"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "be641e2c70c3267",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568311071695,
+        "stop" : 1568311074107,
+        "duration" : 2412
+      }
+    }, {
+      "uid" : "3a9ae7c2a34b02e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568310398336,
+        "stop" : 1568310401148,
+        "duration" : 2812
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81104b8bf92dd21c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,116 @@
+{
+  "uid" : "fd759d569607738c",
+  "name" : "SimpleTestFailed",
+  "fullName" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.SimpleTestFailed",
+  "historyId" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.SimpleTestFailed",
+  "time" : {
+    "start" : 1568311071550,
+    "stop" : 1568311071635,
+    "duration" : 85
+  },
+  "description" : "OLOLO\n",
+  "descriptionHtml" : "<p>OLOLO</p>\n",
+  "status" : "failed",
+  "statusMessage" : "  Expected: No Exception to be thrown\r\n  But was:  <System.Exception: I'm an exception\r\n   at WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestClass.<>c.<SimpleTestFailed>b__3_0() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\Sample_AllureReportTypes.cs:line 54\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.VoidInvocationDescriptor.Invoke()\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.ExceptionInterceptor.Intercept(Object invocation)>\r\n",
+  "statusTrace" : "   at WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestClass.SimpleTestFailed() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\Sample_AllureReportTypes.cs:line 52\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "SetUp",
+    "time" : {
+      "start" : 1568311071610,
+      "stop" : 1568311071610,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "OLOLO\n",
+    "status" : "failed",
+    "statusMessage" : "  Expected: No Exception to be thrown\r\n  But was:  <System.Exception: I'm an exception\r\n   at WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestClass.<>c.<SimpleTestFailed>b__3_0() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\Sample_AllureReportTypes.cs:line 54\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.VoidInvocationDescriptor.Invoke()\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.ExceptionInterceptor.Intercept(Object invocation)>\r\n",
+    "statusTrace" : "   at WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestClass.SimpleTestFailed() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\Sample_AllureReportTypes.cs:line 52\r\n",
+    "steps" : [ {
+      "name" : "SimpleTestFailed",
+      "time" : {
+        "start" : 1568311071551,
+        "stop" : 1568311071627,
+        "duration" : 76
+      },
+      "status" : "failed",
+      "statusMessage" : "  Expected: No Exception to be thrown\r\n  But was:  <System.Exception: I'm an exception\r\n   at WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestClass.<>c.<SimpleTestFailed>b__3_0() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\Sample_AllureReportTypes.cs:line 54\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.VoidInvocationDescriptor.Invoke()\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.ExceptionInterceptor.Intercept(Object invocation)>\r\n",
+      "statusTrace" : "   at WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestClass.SimpleTestFailed() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureRepoting_Version1\\NunitWithAllureRepoting_Version1\\Sample_AllureReportTypes.cs:line 52\r\n",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "959f0568d3101e93",
+        "name" : "Console Output",
+        "source" : "959f0568d3101e93.txt",
+        "type" : "text/plain",
+        "size" : 41
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "AGEORGE01"
+  }, {
+    "name" : "testClass",
+    "value" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "SimpleTestFailed"
+  }, {
+    "name" : "package",
+    "value" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass"
+  }, {
+    "name" : "owner",
+    "value" : "unickq"
+  }, {
+    "name" : "suite",
+    "value" : "FailedSuite"
+  }, {
+    "name" : "subSuite",
+    "value" : "DoesNotThrow"
+  }, {
+    "name" : "subSuite",
+    "value" : "AllureReportTypeSamples"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "Google",
+    "url" : "https://google.com",
+    "type" : "link"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd759d569607738c.json",
+  "parameterValues" : [ ]
+}

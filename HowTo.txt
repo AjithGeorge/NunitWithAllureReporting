@@ -1,0 +1,5 @@
+1. Run the Tests.
+2. Allure Results will get generated in \bin\Debug\netcoreapp2.2\allure-results
+3. Run the batch file.
+4. Resulting report will get generated in the allure-2.13.0\bin\allure-report folder.
+5. To get the history/trend details, copy the history folder of previous run to allure-results and later generate the report.

@@ -1,0 +1,28 @@
+{
+  "uuid": "598ba836-7664-4607-95f8-1bb1fdd04db6-tc-0-1000",
+  "name": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.SimpleTestPassed",
+  "children": [
+    "288e5b26-a88d-401c-b88c-ec74117bce3b-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1568310398330,
+      "stop": 1568310398330
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1568310398330,
+  "stop": 1568310398335
+}

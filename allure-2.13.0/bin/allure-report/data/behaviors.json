@@ -1,0 +1,48 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "SimpleTestFailed",
+    "uid" : "129099140221d9f2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1568352091321,
+      "stop" : 1568352091399,
+      "duration" : 78
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "SimpleTestPassed",
+    "uid" : "c6b3b16ff9581d46",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1568352091442,
+      "stop" : 1568352091445,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Song",
+    "children" : [ {
+      "name" : "TestWithSteps",
+      "uid" : "81104b8bf92dd21c",
+      "parentUid" : "07186385dabb2db7046aa91baeef8d05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1568352091448,
+        "stop" : 1568352093257,
+        "duration" : 1809
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "07186385dabb2db7046aa91baeef8d05"
+  } ]
+}

@@ -1,0 +1,155 @@
+{
+  "uuid": "0eb7ab13-1d68-4f29-b606-0468093a9a16-tr-0-1004",
+  "historyId": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.TestWithSteps",
+  "fullName": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.TestWithSteps",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AGEORGE01"
+    },
+    {
+      "name": "testClass",
+      "value": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestWithSteps"
+    },
+    {
+      "name": "package",
+      "value": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass"
+    },
+    {
+      "name": "epic",
+      "value": "Song"
+    },
+    {
+      "name": "suite",
+      "value": "Adele"
+    },
+    {
+      "name": "subSuite",
+      "value": "Hello"
+    },
+    {
+      "name": "subSuite",
+      "value": "AllureReportTypeSamples"
+    }
+  ],
+  "links": [],
+  "name": "TestWithSteps",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "TestWithSteps",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Hello, it's me",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1568310398338,
+          "stop": 1568310398639
+        },
+        {
+          "name": "I was wondering if after all these years you'd like to meet",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1568310398639,
+          "stop": 1568310399540
+        },
+        {
+          "name": "To go over everything",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1568310399540,
+          "stop": 1568310399941
+        },
+        {
+          "name": "They say that time's supposed to heal ya",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1568310399941,
+          "stop": 1568310400542
+        },
+        {
+          "name": "But I ain't done much healing",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1568310400542,
+          "stop": 1568310401142
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "5d4b2f06eae94979bfd06b38633e47f2-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1568310398336,
+      "stop": 1568310401146
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1568310398336,
+  "stop": 1568310401148
+}

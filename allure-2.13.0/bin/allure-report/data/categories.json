@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "  Expected: No Exception to be thrown\r\n  But was:  <System.Exception: I'm an exception\r\n   at WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestClass.<>c.<SimpleTestFailed>b__3_0() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureReporting_Version1\\NunitWithAllureReporting_Version1\\Sample_AllureReportTypes.cs:line 54\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.VoidInvocationDescriptor.Invoke()\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.ExceptionInterceptor.Intercept(Object invocation)>\r\n",
+      "children" : [ {
+        "name" : "SimpleTestFailed",
+        "uid" : "129099140221d9f2",
+        "parentUid" : "a96488b40c7c5dd66c88c68cf6cdc403",
+        "status" : "failed",
+        "time" : {
+          "start" : 1568352091321,
+          "stop" : 1568352091399,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a96488b40c7c5dd66c88c68cf6cdc403"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

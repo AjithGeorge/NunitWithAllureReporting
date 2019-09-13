@@ -1,0 +1,120 @@
+{
+  "uid" : "d9b6760f79160a2f",
+  "name" : "SimpleTestPassed",
+  "fullName" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.SimpleTestPassed",
+  "historyId" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.SimpleTestPassed",
+  "time" : {
+    "start" : 1568310398330,
+    "stop" : 1568310398333,
+    "duration" : 3
+  },
+  "description" : "Sample\n",
+  "descriptionHtml" : "<p>Sample</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "SetUp",
+    "time" : {
+      "start" : 1568310398330,
+      "stop" : 1568310398330,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Sample\n",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "SimpleTestPassed",
+      "time" : {
+        "start" : 1568310398330,
+        "stop" : 1568310398332,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "29a481c983d522f6",
+        "name" : "Console Output",
+        "source" : "29a481c983d522f6.txt",
+        "type" : "text/plain",
+        "size" : 56
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "AGEORGE01"
+  }, {
+    "name" : "testClass",
+    "value" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "SimpleTestPassed"
+  }, {
+    "name" : "package",
+    "value" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass"
+  }, {
+    "name" : "tag",
+    "value" : "TC-1"
+  }, {
+    "name" : "owner",
+    "value" : "unickq"
+  }, {
+    "name" : "suite",
+    "value" : "PassedSuite"
+  }, {
+    "name" : "subSuite",
+    "value" : "NoAssert"
+  }, {
+    "name" : "subSuite",
+    "value" : "Simple"
+  }, {
+    "name" : "subSuite",
+    "value" : "AllureReportTypeSamples"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "ISSUE-1",
+    "url" : "ISSUE-1",
+    "type" : "issue"
+  }, {
+    "name" : "TMS-12",
+    "url" : "TMS-12",
+    "type" : "tms"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "TC-1" ]
+  },
+  "source" : "d9b6760f79160a2f.json",
+  "parameterValues" : [ ]
+}
