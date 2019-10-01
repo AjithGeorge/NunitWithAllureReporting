@@ -3,26 +3,26 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "SimpleTestFailed",
-    "uid" : "129099140221d9f2",
+    "uid" : "154b2ebd5d6156d8",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1568352091321,
-      "stop" : 1568352091399,
-      "duration" : 78
+      "start" : 1569925991132,
+      "stop" : 1569925991208,
+      "duration" : 76
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "SimpleTestPassed",
-    "uid" : "c6b3b16ff9581d46",
+    "uid" : "8d507e87a4850527",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1568352091442,
-      "stop" : 1568352091445,
-      "duration" : 3
+      "start" : 1569925991249,
+      "stop" : 1569925991256,
+      "duration" : 7
     },
     "flaky" : false,
     "newFailed" : false,
@@ -31,13 +31,13 @@
     "name" : "Song",
     "children" : [ {
       "name" : "TestWithSteps",
-      "uid" : "81104b8bf92dd21c",
+      "uid" : "8eb654d57486c9f6",
       "parentUid" : "07186385dabb2db7046aa91baeef8d05",
       "status" : "passed",
       "time" : {
-        "start" : 1568352091448,
-        "stop" : 1568352093257,
-        "duration" : 1809
+        "start" : 1569925991259,
+        "stop" : 1569925993171,
+        "duration" : 1912
       },
       "flaky" : false,
       "newFailed" : false,

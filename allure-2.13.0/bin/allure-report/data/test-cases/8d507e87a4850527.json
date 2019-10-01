@@ -1,0 +1,139 @@
+{
+  "uid" : "8d507e87a4850527",
+  "name" : "SimpleTestPassed",
+  "fullName" : "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestPassed",
+  "historyId" : "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestPassed",
+  "time" : {
+    "start" : 1569925991249,
+    "stop" : 1569925991256,
+    "duration" : 7
+  },
+  "description" : "Sample\n",
+  "descriptionHtml" : "<p>Sample</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "SetUp",
+    "time" : {
+      "start" : 1569925991249,
+      "stop" : 1569925991249,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Sample\n",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "SimpleTestPassed",
+      "time" : {
+        "start" : 1569925991249,
+        "stop" : 1569925991250,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b66a09cd7e05a91e",
+        "name" : "Console Output",
+        "source" : "b66a09cd7e05a91e.txt",
+        "type" : "text/plain",
+        "size" : 55
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "AGEORGE01"
+  }, {
+    "name" : "testClass",
+    "value" : "AllureSample.Sample_AllureReportTypes+TestClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "SimpleTestPassed"
+  }, {
+    "name" : "package",
+    "value" : "AllureSample.Sample_AllureReportTypes+TestClass"
+  }, {
+    "name" : "tag",
+    "value" : "TC-1"
+  }, {
+    "name" : "owner",
+    "value" : "unickq"
+  }, {
+    "name" : "suite",
+    "value" : "PassedSuite"
+  }, {
+    "name" : "subSuite",
+    "value" : "NoAssert"
+  }, {
+    "name" : "subSuite",
+    "value" : "Simple"
+  }, {
+    "name" : "subSuite",
+    "value" : "AllureReportTypeSamples"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "ISSUE-1",
+    "url" : "ISSUE-1",
+    "type" : "issue"
+  }, {
+    "name" : "TMS-12",
+    "url" : "TMS-12",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "unickq",
+    "retries" : [ {
+      "uid" : "a9b341c3aed9cfb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1569925897072,
+        "stop" : 1569925897076,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "2f2215a11ba019cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1569925777097,
+        "stop" : 1569925777100,
+        "duration" : 3
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "TC-1" ]
+  },
+  "source" : "8d507e87a4850527.json",
+  "parameterValues" : [ ]
+}

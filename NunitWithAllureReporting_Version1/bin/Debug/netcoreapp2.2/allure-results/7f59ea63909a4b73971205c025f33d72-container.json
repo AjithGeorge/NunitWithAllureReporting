@@ -1,0 +1,28 @@
+{
+  "uuid": "55f80e02-8a84-4fd1-934c-56f71b31e66e-tc-0-1000",
+  "name": "AllureSample.Sample_AllureReportTypes+TestClass.TestWithSteps",
+  "children": [
+    "2088e616-90ff-4de6-9d7f-695c5b11be71-tr-0-1004"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1569925780807,
+      "stop": 1569925780807
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1569925777102,
+  "stop": 1569925780810
+}

@@ -1,6 +1,6 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Sep 13 10:51:31 IST 2019","Fri Sep 13 10:51:31 IST 2019","3","","PassedSuite","AllureReportTypeSamples","WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass","SimpleTestPassed","SimpleTestPassed","Sample
+"failed","Tue Oct 01 16:03:11 IST 2019","Tue Oct 01 16:03:11 IST 2019","76","","FailedSuite","AllureReportTypeSamples","AllureSample.Sample_AllureReportTypes+TestClass","SimpleTestFailed","SimpleTestFailed","OLOLO
 "
-"failed","Fri Sep 13 10:51:31 IST 2019","Fri Sep 13 10:51:31 IST 2019","78","","FailedSuite","AllureReportTypeSamples","WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass","SimpleTestFailed","SimpleTestFailed","OLOLO
+"passed","Tue Oct 01 16:03:11 IST 2019","Tue Oct 01 16:03:11 IST 2019","7","","PassedSuite","AllureReportTypeSamples","AllureSample.Sample_AllureReportTypes+TestClass","SimpleTestPassed","SimpleTestPassed","Sample
 "
-"passed","Fri Sep 13 10:51:31 IST 2019","Fri Sep 13 10:51:33 IST 2019","1809","","Adele","AllureReportTypeSamples","WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass","TestWithSteps","TestWithSteps",""
+"passed","Tue Oct 01 16:03:11 IST 2019","Tue Oct 01 16:03:13 IST 2019","1912","","Adele","AllureReportTypeSamples","AllureSample.Sample_AllureReportTypes+TestClass","TestWithSteps","TestWithSteps",""

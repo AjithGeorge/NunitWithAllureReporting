@@ -1,5 +1,5 @@
 {
-  "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.TestWithSteps" : {
+  "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestPassed" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -9,16 +9,16 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "81104b8bf92dd21c",
+      "uid" : "8d507e87a4850527",
       "status" : "passed",
       "time" : {
-        "start" : 1568352091448,
-        "stop" : 1568352093257,
-        "duration" : 1809
+        "start" : 1569925991249,
+        "stop" : 1569925991256,
+        "duration" : 7
       }
     } ]
   },
-  "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.SimpleTestFailed" : {
+  "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestFailed" : {
     "statistic" : {
       "failed" : 1,
       "broken" : 0,
@@ -28,17 +28,17 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "129099140221d9f2",
+      "uid" : "154b2ebd5d6156d8",
       "status" : "failed",
-      "statusDetails" : "  Expected: No Exception to be thrown\r\n  But was:  <System.Exception: I'm an exception\r\n   at WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestClass.<>c.<SimpleTestFailed>b__3_0() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureReporting_Version1\\NunitWithAllureReporting_Version1\\Sample_AllureReportTypes.cs:line 54\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.VoidInvocationDescriptor.Invoke()\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.ExceptionInterceptor.Intercept(Object invocation)>\r\n",
+      "statusDetails" : "  Expected: No Exception to be thrown\r\n  But was:  <System.Exception: I'm an exception\r\n   at AllureSample.Sample_AllureReportTypes.TestClass.<>c.<SimpleTestFailed>b__3_0() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureReporting_Version1\\NunitWithAllureReporting_Version1\\Sample_AllureReportTypes.cs:line 54\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.VoidInvocationDescriptor.Invoke()\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.ExceptionInterceptor.Intercept(Object invocation)>\r\n",
       "time" : {
-        "start" : 1568352091321,
-        "stop" : 1568352091399,
-        "duration" : 78
+        "start" : 1569925991132,
+        "stop" : 1569925991208,
+        "duration" : 76
       }
     } ]
   },
-  "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes+TestClass.SimpleTestPassed" : {
+  "AllureSample.Sample_AllureReportTypes+TestClass.TestWithSteps" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -48,12 +48,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c6b3b16ff9581d46",
+      "uid" : "8eb654d57486c9f6",
       "status" : "passed",
       "time" : {
-        "start" : 1568352091442,
-        "stop" : 1568352091445,
-        "duration" : 3
+        "start" : 1569925991259,
+        "stop" : 1569925993171,
+        "duration" : 1912
       }
     } ]
   }

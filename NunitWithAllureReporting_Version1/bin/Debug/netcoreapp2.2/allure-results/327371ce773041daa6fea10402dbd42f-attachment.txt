@@ -1,2 +1,0 @@
-Hello, this is TestClass1 setUp
-9/12/2019 11:27:51 PM

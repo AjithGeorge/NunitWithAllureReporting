@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
-namespace WhiteCase.CompApp.UiTests.Scenarios
+namespace AllureSample
 {
     class Sample_AllureReportTypes
     {
