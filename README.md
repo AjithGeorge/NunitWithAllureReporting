@@ -8,7 +8,7 @@ Sample project to demonstrate the use of Nunit and Allure reports.
 
 
 ## Overview:
-The solution asserts different test status and demonstrates the capabilities of allure reports.
+The solution asserts different test results and demonstrates the capabilities of allure reports.
 
 ## Prerequisites:
 1. Visual Studio 2019 with the ASP.NET.
@@ -17,6 +17,8 @@ The solution asserts different test status and demonstrates the capabilities of 
 
 ## Execution Steps:
 1. Clone/Download the repo.
-2. Run the tests through any means.
-3. Execute the bat/batch file.
-3. Report will get generated in *"/allure-2.13.0/bin/allure-report"* folder.
+1. Run the Tests.
+2. Allure Results will get generated in \bin\Debug\netcoreapp2.2\allure-results
+3. Run the batch file.
+4. Resulting report will get generated in the allure-2.13.0\bin\allure-report folder.
+5. To get the history/trend details, copy the history folder of previous run to allure-results and later generate the report.
