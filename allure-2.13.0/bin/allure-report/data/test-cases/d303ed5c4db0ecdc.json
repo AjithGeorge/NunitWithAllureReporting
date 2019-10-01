@@ -1,12 +1,12 @@
 {
-  "uid" : "a9b341c3aed9cfb5",
+  "uid" : "d303ed5c4db0ecdc",
   "name" : "SimpleTestPassed",
-  "fullName" : "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestPassed",
-  "historyId" : "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestPassed",
+  "fullName" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.SimpleTestPassed",
+  "historyId" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.SimpleTestPassed",
   "time" : {
-    "start" : 1569925897072,
-    "stop" : 1569925897076,
-    "duration" : 4
+    "start" : 1569944050401,
+    "stop" : 1569944050404,
+    "duration" : 3
   },
   "description" : "Sample\n",
   "descriptionHtml" : "<p>Sample</p>\n",
@@ -16,18 +16,18 @@
   "beforeStages" : [ {
     "name" : "SetUp",
     "time" : {
-      "start" : 1569925897073,
-      "stop" : 1569925897073,
+      "start" : 1569944050401,
+      "stop" : 1569944050401,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
   } ],
   "testStage" : {
     "description" : "Sample\n",
@@ -35,31 +35,31 @@
     "steps" : [ {
       "name" : "SimpleTestPassed",
       "time" : {
-        "start" : 1569925897072,
-        "stop" : 1569925897075,
-        "duration" : 3
+        "start" : 1569944050401,
+        "stop" : 1569944050403,
+        "duration" : 2
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "d6d0f4eb0181db27",
+        "uid" : "eb60a2b240ff6621",
         "name" : "Console Output",
-        "source" : "d6d0f4eb0181db27.txt",
+        "source" : "eb60a2b240ff6621.txt",
         "type" : "text/plain",
         "size" : 55
       } ],
       "parameters" : [ ],
-      "stepsCount" : 0,
-      "hasContent" : true,
       "attachmentsCount" : 1,
-      "shouldDisplayMessage" : false
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 1,
-    "hasContent" : true,
     "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -70,13 +70,13 @@
     "value" : "AGEORGE01"
   }, {
     "name" : "testClass",
-    "value" : "AllureSample.Sample_AllureReportTypes+TestClass"
+    "value" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes"
   }, {
     "name" : "testMethod",
     "value" : "SimpleTestPassed"
   }, {
     "name" : "package",
-    "value" : "AllureSample.Sample_AllureReportTypes+TestClass"
+    "value" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes"
   }, {
     "name" : "tag",
     "value" : "TC-1"
@@ -115,6 +115,6 @@
     "categories" : [ ],
     "tags" : [ "TC-1" ]
   },
-  "source" : "a9b341c3aed9cfb5.json",
+  "source" : "d303ed5c4db0ecdc.json",
   "parameterValues" : [ ]
 }

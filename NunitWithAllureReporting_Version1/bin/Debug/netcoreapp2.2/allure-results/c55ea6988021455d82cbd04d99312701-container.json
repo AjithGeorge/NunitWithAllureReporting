@@ -1,8 +1,8 @@
 {
-  "uuid": "11cba76f-50f6-44ff-b99a-9c081eb65ed5-tc-0-1000",
-  "name": "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestFailed",
+  "uuid": "1394cc66-ef35-4813-85c4-191e807638cc-tc-0-1000",
+  "name": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.SimpleTestPassed",
   "children": [
-    "497e05ea-0910-42e4-b91a-1a2746cba268-tr-0-1003"
+    "6c404823-6b56-400c-afa4-ab891507f7fb-tr-0-1001"
   ],
   "befores": [
     {
@@ -17,12 +17,12 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1569925991192,
-      "stop": 1569925991192
+      "start": 1569944050401,
+      "stop": 1569944050401
     }
   ],
   "afters": [],
   "links": [],
-  "start": 1569925991128,
-  "stop": 1569925991237
+  "start": 1569944050401,
+  "stop": 1569944050405
 }

@@ -6,118 +6,79 @@
     "children" : [ {
       "name" : "NonParallelWorker",
       "children" : [ {
-        "name" : "SimpleTestFailed",
-        "uid" : "2beb74b39f41be66",
+        "name" : "TestWithSteps",
+        "uid" : "e32173566a8c727c",
         "parentUid" : "2f5e3d26c9453076b9d93042dede3285",
-        "status" : "failed",
+        "status" : "passed",
         "time" : {
-          "start" : 1569925776957,
-          "stop" : 1569925777052,
-          "duration" : 95
+          "start" : 1569944050412,
+          "stop" : 1569944053420,
+          "duration" : 3008
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "TestWithSteps",
-        "uid" : "8eb654d57486c9f6",
+        "uid" : "28640725a3d34f89",
         "parentUid" : "2f5e3d26c9453076b9d93042dede3285",
         "status" : "passed",
         "time" : {
-          "start" : 1569925991259,
-          "stop" : 1569925993171,
-          "duration" : 1912
+          "start" : 1569944184709,
+          "stop" : 1569944188020,
+          "duration" : 3311
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "SimpleTestFailed",
-        "uid" : "154b2ebd5d6156d8",
+        "uid" : "6c97c10fb4b6b4d5",
         "parentUid" : "2f5e3d26c9453076b9d93042dede3285",
         "status" : "failed",
         "time" : {
-          "start" : 1569925991132,
-          "stop" : 1569925991208,
-          "duration" : 76
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "TestWithSteps",
-        "uid" : "5d63821372469a0f",
-        "parentUid" : "2f5e3d26c9453076b9d93042dede3285",
-        "status" : "passed",
-        "time" : {
-          "start" : 1569925777102,
-          "stop" : 1569925780809,
-          "duration" : 3707
+          "start" : 1569944184473,
+          "stop" : 1569944184615,
+          "duration" : 142
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "SimpleTestPassed",
-        "uid" : "8d507e87a4850527",
+        "uid" : "d303ed5c4db0ecdc",
         "parentUid" : "2f5e3d26c9453076b9d93042dede3285",
         "status" : "passed",
         "time" : {
-          "start" : 1569925991249,
-          "stop" : 1569925991256,
-          "duration" : 7
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "TestWithSteps",
-        "uid" : "632d88ba5dfa8fa9",
-        "parentUid" : "2f5e3d26c9453076b9d93042dede3285",
-        "status" : "passed",
-        "time" : {
-          "start" : 1569925897079,
-          "stop" : 1569925898886,
-          "duration" : 1807
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "SimpleTestFailed",
-        "uid" : "d78135c9056f4474",
-        "parentUid" : "2f5e3d26c9453076b9d93042dede3285",
-        "status" : "failed",
-        "time" : {
-          "start" : 1569925896954,
-          "stop" : 1569925897033,
-          "duration" : 79
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "SimpleTestPassed",
-        "uid" : "2f2215a11ba019cf",
-        "parentUid" : "2f5e3d26c9453076b9d93042dede3285",
-        "status" : "passed",
-        "time" : {
-          "start" : 1569925777097,
-          "stop" : 1569925777100,
+          "start" : 1569944050401,
+          "stop" : 1569944050404,
           "duration" : 3
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
+        "name" : "SimpleTestFailed",
+        "uid" : "e89140c4a248ead5",
+        "parentUid" : "2f5e3d26c9453076b9d93042dede3285",
+        "status" : "failed",
+        "time" : {
+          "start" : 1569944050274,
+          "stop" : 1569944050358,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "SimpleTestPassed",
-        "uid" : "a9b341c3aed9cfb5",
+        "uid" : "14694648e6a75ee4",
         "parentUid" : "2f5e3d26c9453076b9d93042dede3285",
         "status" : "passed",
         "time" : {
-          "start" : 1569925897072,
-          "stop" : 1569925897076,
-          "duration" : 4
+          "start" : 1569944184693,
+          "stop" : 1569944184701,
+          "duration" : 8
         },
         "flaky" : false,
         "newFailed" : false,
