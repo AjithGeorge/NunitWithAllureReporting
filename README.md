@@ -11,9 +11,9 @@ Sample project to demonstrate the use of Nunit and Allure reports.
 The solution asserts different test results and demonstrates the capabilities of allure reports.
 
 ## Prerequisites:
-1. Visual Studio 2019 with the ASP.NET.
-2. allure-2.13.0
-3. Java Runtime Environment installed. (For generating the allure report)
+- Visual Studio 2019 with the ASP.NET.
+- Allure-2.13.0
+- Java Runtime Environment installed. (For generating the allure report)
 
 ## Execution Steps:
 1. Clone/Download the repo.
