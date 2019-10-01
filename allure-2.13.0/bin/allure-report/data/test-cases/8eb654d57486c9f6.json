@@ -1,12 +1,12 @@
 {
-  "uid" : "28640725a3d34f89",
+  "uid" : "8eb654d57486c9f6",
   "name" : "TestWithSteps",
-  "fullName" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestWithSteps",
-  "historyId" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestWithSteps",
+  "fullName" : "AllureSample.Sample_AllureReportTypes+TestClass.TestWithSteps",
+  "historyId" : "AllureSample.Sample_AllureReportTypes+TestClass.TestWithSteps",
   "time" : {
-    "start" : 1569944184709,
-    "stop" : 1569944188020,
-    "duration" : 3311
+    "start" : 1569925991259,
+    "stop" : 1569925993171,
+    "duration" : 1912
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,124 +14,124 @@
   "beforeStages" : [ {
     "name" : "SetUp",
     "time" : {
-      "start" : 1569944188016,
-      "stop" : 1569944188016,
+      "start" : 1569925993164,
+      "stop" : 1569925993164,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
     "hasContent" : false,
-    "stepsCount" : 0
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
   } ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
       "name" : "TestWithSteps",
       "time" : {
-        "start" : 1569944184709,
-        "stop" : 1569944188019,
-        "duration" : 3310
+        "start" : 1569925991259,
+        "stop" : 1569925993170,
+        "duration" : 1911
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "Hello, it's me",
         "time" : {
-          "start" : 1569944184712,
-          "stop" : 1569944185613,
-          "duration" : 901
+          "start" : 1569925991260,
+          "stop" : 1569925991861,
+          "duration" : 601
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
-        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
         "hasContent" : false,
-        "stepsCount" : 0
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
       }, {
         "name" : "I was wondering if after all these years you'd like to meet",
         "time" : {
-          "start" : 1569944185613,
-          "stop" : 1569944186214,
-          "duration" : 601
+          "start" : 1569925991861,
+          "stop" : 1569925992362,
+          "duration" : 501
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
-        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
         "hasContent" : false,
-        "stepsCount" : 0
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
       }, {
         "name" : "To go over everything",
         "time" : {
-          "start" : 1569944186214,
-          "stop" : 1569944187114,
-          "duration" : 900
+          "start" : 1569925992362,
+          "stop" : 1569925992763,
+          "duration" : 401
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
-        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
         "hasContent" : false,
-        "stepsCount" : 0
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
       }, {
         "name" : "They say that time's supposed to heal ya",
         "time" : {
-          "start" : 1569944187114,
-          "stop" : 1569944187715,
-          "duration" : 601
+          "start" : 1569925992763,
+          "stop" : 1569925993063,
+          "duration" : 300
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
-        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
         "hasContent" : false,
-        "stepsCount" : 0
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
       }, {
         "name" : "But I ain't done much healing",
         "time" : {
-          "start" : 1569944187715,
-          "stop" : 1569944188016,
-          "duration" : 301
+          "start" : 1569925993063,
+          "stop" : 1569925993164,
+          "duration" : 101
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
-        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
         "hasContent" : false,
-        "stepsCount" : 0
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
       } ],
       "attachments" : [ {
-        "uid" : "255ccc17085e2abf",
+        "uid" : "97d8523cba5095ae",
         "name" : "Console Output",
-        "source" : "255ccc17085e2abf.txt",
+        "source" : "97d8523cba5095ae.txt",
         "type" : "text/plain",
         "size" : 216
       } ],
       "parameters" : [ ],
-      "attachmentsCount" : 1,
-      "shouldDisplayMessage" : false,
+      "stepsCount" : 5,
       "hasContent" : true,
-      "stepsCount" : 5
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
+    "stepsCount" : 6,
     "hasContent" : true,
-    "stepsCount" : 6
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -142,13 +142,13 @@
     "value" : "AGEORGE01"
   }, {
     "name" : "testClass",
-    "value" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes"
+    "value" : "AllureSample.Sample_AllureReportTypes+TestClass"
   }, {
     "name" : "testMethod",
     "value" : "TestWithSteps"
   }, {
     "name" : "package",
-    "value" : "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes"
+    "value" : "AllureSample.Sample_AllureReportTypes+TestClass"
   }, {
     "name" : "epic",
     "value" : "Song"
@@ -172,17 +172,25 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "e32173566a8c727c",
+      "uid" : "632d88ba5dfa8fa9",
       "status" : "passed",
       "time" : {
-        "start" : 1569944050412,
-        "stop" : 1569944053420,
-        "duration" : 3008
+        "start" : 1569925897079,
+        "stop" : 1569925898886,
+        "duration" : 1807
+      }
+    }, {
+      "uid" : "5d63821372469a0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1569925777102,
+        "stop" : 1569925780809,
+        "duration" : 3707
       }
     } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "28640725a3d34f89.json",
+  "source" : "8eb654d57486c9f6.json",
   "parameterValues" : [ ]
 }

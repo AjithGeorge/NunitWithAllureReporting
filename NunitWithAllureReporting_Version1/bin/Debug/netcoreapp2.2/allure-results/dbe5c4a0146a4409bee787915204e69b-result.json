@@ -1,7 +1,7 @@
 {
-  "uuid": "6c404823-6b56-400c-afa4-ab891507f7fb-tr-0-1001",
-  "historyId": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.SimpleTestPassed",
-  "fullName": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.SimpleTestPassed",
+  "uuid": "8acb35e7-f16c-48f6-ae28-3cc91f45b98c-tr-0-1001",
+  "historyId": "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestPassed",
+  "fullName": "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestPassed",
   "labels": [
     {
       "name": "thread",
@@ -13,7 +13,7 @@
     },
     {
       "name": "testClass",
-      "value": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes"
+      "value": "AllureSample.Sample_AllureReportTypes+TestClass"
     },
     {
       "name": "testMethod",
@@ -21,7 +21,7 @@
     },
     {
       "name": "package",
-      "value": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes"
+      "value": "AllureSample.Sample_AllureReportTypes+TestClass"
     },
     {
       "name": "tag",
@@ -83,17 +83,17 @@
       "attachments": [
         {
           "name": "Console Output",
-          "source": "efb734bd89fb437bbdc6c442f4078b38-attachment.txt",
+          "source": "e8cb212c62da4b489d1c116382552c68-attachment.txt",
           "type": "text/plain"
         }
       ],
       "parameters": [],
-      "start": 1569944050401,
-      "stop": 1569944050403
+      "start": 1569925777097,
+      "stop": 1569925777098
     }
   ],
   "attachments": [],
   "parameters": [],
-  "start": 1569944050401,
-  "stop": 1569944050404
+  "start": 1569925777097,
+  "stop": 1569925777100
 }

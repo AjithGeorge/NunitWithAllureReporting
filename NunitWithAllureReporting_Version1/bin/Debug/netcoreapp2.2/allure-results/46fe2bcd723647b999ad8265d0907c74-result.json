@@ -1,7 +1,7 @@
 {
-  "uuid": "69c643f2-cc3c-483c-b3d7-ec2e2155fcab-tr-0-1004",
-  "historyId": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestWithSteps",
-  "fullName": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes.TestWithSteps",
+  "uuid": "2088e616-90ff-4de6-9d7f-695c5b11be71-tr-0-1004",
+  "historyId": "AllureSample.Sample_AllureReportTypes+TestClass.TestWithSteps",
+  "fullName": "AllureSample.Sample_AllureReportTypes+TestClass.TestWithSteps",
   "labels": [
     {
       "name": "thread",
@@ -13,7 +13,7 @@
     },
     {
       "name": "testClass",
-      "value": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes"
+      "value": "AllureSample.Sample_AllureReportTypes+TestClass"
     },
     {
       "name": "testMethod",
@@ -21,7 +21,7 @@
     },
     {
       "name": "package",
-      "value": "WhiteCase.CompApp.UiTests.Scenarios.Sample_AllureReportTypes"
+      "value": "AllureSample.Sample_AllureReportTypes+TestClass"
     },
     {
       "name": "epic",
@@ -72,8 +72,8 @@
           "steps": [],
           "attachments": [],
           "parameters": [],
-          "start": 1569944050413,
-          "stop": 1569944051314
+          "start": 1569925777103,
+          "stop": 1569925777704
         },
         {
           "name": "I was wondering if after all these years you'd like to meet",
@@ -87,8 +87,8 @@
           "steps": [],
           "attachments": [],
           "parameters": [],
-          "start": 1569944051314,
-          "stop": 1569944051815
+          "start": 1569925777704,
+          "stop": 1569925778604
         },
         {
           "name": "To go over everything",
@@ -102,8 +102,8 @@
           "steps": [],
           "attachments": [],
           "parameters": [],
-          "start": 1569944051815,
-          "stop": 1569944052615
+          "start": 1569925778604,
+          "stop": 1569925779205
         },
         {
           "name": "They say that time's supposed to heal ya",
@@ -117,8 +117,8 @@
           "steps": [],
           "attachments": [],
           "parameters": [],
-          "start": 1569944052615,
-          "stop": 1569944053116
+          "start": 1569925779205,
+          "stop": 1569925780106
         },
         {
           "name": "But I ain't done much healing",
@@ -132,24 +132,24 @@
           "steps": [],
           "attachments": [],
           "parameters": [],
-          "start": 1569944053116,
-          "stop": 1569944053417
+          "start": 1569925780106,
+          "stop": 1569925780807
         }
       ],
       "attachments": [
         {
           "name": "Console Output",
-          "source": "88f14ad3f7794aa188a13406d06c5832-attachment.txt",
+          "source": "4f91626ab9c8484f9589497a226958e7-attachment.txt",
           "type": "text/plain"
         }
       ],
       "parameters": [],
-      "start": 1569944050412,
-      "stop": 1569944053419
+      "start": 1569925777102,
+      "stop": 1569925780808
     }
   ],
   "attachments": [],
   "parameters": [],
-  "start": 1569944050412,
-  "stop": 1569944053420
+  "start": 1569925777102,
+  "stop": 1569925780809
 }

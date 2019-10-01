@@ -1,30 +1,30 @@
 [ {
-  "uid" : "28640725a3d34f89",
-  "name" : "TestWithSteps",
-  "time" : {
-    "start" : 1569944184709,
-    "stop" : 1569944188020,
-    "duration" : 3311
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6c97c10fb4b6b4d5",
+  "uid" : "154b2ebd5d6156d8",
   "name" : "SimpleTestFailed",
   "time" : {
-    "start" : 1569944184473,
-    "stop" : 1569944184615,
-    "duration" : 142
+    "start" : 1569925991132,
+    "stop" : 1569925991208,
+    "duration" : 76
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "14694648e6a75ee4",
+  "uid" : "8d507e87a4850527",
   "name" : "SimpleTestPassed",
   "time" : {
-    "start" : 1569944184693,
-    "stop" : 1569944184701,
-    "duration" : 8
+    "start" : 1569925991249,
+    "stop" : 1569925991256,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8eb654d57486c9f6",
+  "name" : "TestWithSteps",
+  "time" : {
+    "start" : 1569925991259,
+    "stop" : 1569925993171,
+    "duration" : 1912
   },
   "status" : "passed",
   "severity" : "normal"
