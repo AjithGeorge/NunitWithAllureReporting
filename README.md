@@ -19,4 +19,4 @@ The solution asserts different test status and demonstrates the capabilities of 
 1. Clone/Download the repo.
 2. Run the tests through any means.
 3. Execute the bat/batch file.
-3. Report will get generated in "/allure-2.13.0/bin/allure-report" folder.
+3. Report will get generated in *"/allure-2.13.0/bin/allure-report"* folder.
