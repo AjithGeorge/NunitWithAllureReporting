@@ -1,0 +1,178 @@
+{
+  "uid" : "5d63821372469a0f",
+  "name" : "TestWithSteps",
+  "fullName" : "AllureSample.Sample_AllureReportTypes+TestClass.TestWithSteps",
+  "historyId" : "AllureSample.Sample_AllureReportTypes+TestClass.TestWithSteps",
+  "time" : {
+    "start" : 1569925777102,
+    "stop" : 1569925780809,
+    "duration" : 3707
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "SetUp",
+    "time" : {
+      "start" : 1569925780807,
+      "stop" : 1569925780807,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "TestWithSteps",
+      "time" : {
+        "start" : 1569925777102,
+        "stop" : 1569925780808,
+        "duration" : 3706
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Hello, it's me",
+        "time" : {
+          "start" : 1569925777103,
+          "stop" : 1569925777704,
+          "duration" : 601
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "I was wondering if after all these years you'd like to meet",
+        "time" : {
+          "start" : 1569925777704,
+          "stop" : 1569925778604,
+          "duration" : 900
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "To go over everything",
+        "time" : {
+          "start" : 1569925778604,
+          "stop" : 1569925779205,
+          "duration" : 601
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "They say that time's supposed to heal ya",
+        "time" : {
+          "start" : 1569925779205,
+          "stop" : 1569925780106,
+          "duration" : 901
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "But I ain't done much healing",
+        "time" : {
+          "start" : 1569925780106,
+          "stop" : 1569925780807,
+          "duration" : 701
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "c8492dc5f3e3db5d",
+        "name" : "Console Output",
+        "source" : "c8492dc5f3e3db5d.txt",
+        "type" : "text/plain",
+        "size" : 216
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 5,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "AGEORGE01"
+  }, {
+    "name" : "testClass",
+    "value" : "AllureSample.Sample_AllureReportTypes+TestClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestWithSteps"
+  }, {
+    "name" : "package",
+    "value" : "AllureSample.Sample_AllureReportTypes+TestClass"
+  }, {
+    "name" : "epic",
+    "value" : "Song"
+  }, {
+    "name" : "suite",
+    "value" : "Adele"
+  }, {
+    "name" : "subSuite",
+    "value" : "Hello"
+  }, {
+    "name" : "subSuite",
+    "value" : "AllureReportTypeSamples"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d63821372469a0f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,90 @@
+{
+  "uuid": "4f81bc91-f4ff-470d-adef-3c3d689aa9e2-tr-0-1003",
+  "historyId": "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestFailed",
+  "fullName": "AllureSample.Sample_AllureReportTypes+TestClass.SimpleTestFailed",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AGEORGE01"
+    },
+    {
+      "name": "testClass",
+      "value": "AllureSample.Sample_AllureReportTypes+TestClass"
+    },
+    {
+      "name": "testMethod",
+      "value": "SimpleTestFailed"
+    },
+    {
+      "name": "package",
+      "value": "AllureSample.Sample_AllureReportTypes+TestClass"
+    },
+    {
+      "name": "owner",
+      "value": "unickq"
+    },
+    {
+      "name": "suite",
+      "value": "FailedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "DoesNotThrow"
+    },
+    {
+      "name": "subSuite",
+      "value": "AllureReportTypeSamples"
+    }
+  ],
+  "links": [
+    {
+      "name": "Google",
+      "url": "https://google.com",
+      "type": "link"
+    }
+  ],
+  "name": "SimpleTestFailed",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected: No Exception to be thrown\r\n  But was:  <System.Exception: I'm an exception\r\n   at AllureSample.Sample_AllureReportTypes.TestClass.<>c.<SimpleTestFailed>b__3_0() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureReporting_Version1\\NunitWithAllureReporting_Version1\\Sample_AllureReportTypes.cs:line 54\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.VoidInvocationDescriptor.Invoke()\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.ExceptionInterceptor.Intercept(Object invocation)>\r\n",
+    "trace": "   at AllureSample.Sample_AllureReportTypes.TestClass.SimpleTestFailed() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureReporting_Version1\\NunitWithAllureReporting_Version1\\Sample_AllureReportTypes.cs:line 52\r\n"
+  },
+  "stage": "finished",
+  "description": "OLOLO\n",
+  "steps": [
+    {
+      "name": "SimpleTestFailed",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected: No Exception to be thrown\r\n  But was:  <System.Exception: I'm an exception\r\n   at AllureSample.Sample_AllureReportTypes.TestClass.<>c.<SimpleTestFailed>b__3_0() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureReporting_Version1\\NunitWithAllureReporting_Version1\\Sample_AllureReportTypes.cs:line 54\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.VoidInvocationDescriptor.Invoke()\r\n   at NUnit.Framework.Constraints.ThrowsConstraint.ExceptionInterceptor.Intercept(Object invocation)>\r\n",
+        "trace": "   at AllureSample.Sample_AllureReportTypes.TestClass.SimpleTestFailed() in C:\\Users\\Ajith.George\\Desktop\\STUDY\\Selenium-WebDriver\\Reporting\\NunitWithAllureReporting_Version1\\NunitWithAllureReporting_Version1\\Sample_AllureReportTypes.cs:line 52\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "079f5c0d467d44fa9286cd20cb42476d-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1569925896955,
+      "stop": 1569925897027
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1569925896954,
+  "stop": 1569925897033
+}
